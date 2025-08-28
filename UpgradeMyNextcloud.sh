@@ -47,7 +47,7 @@ fi
 log "Current version: $old_version"
 
 # Define the major releases (may need to update - see https://nextcloud.com/changelog/)
-new_versions=("28.0.21" "29.0.16" "30.0.13")
+new_versions=("28.0.21" "29.0.16" "30.0.13" "31.0.8")
 
 # Find the next major release
 next_release=""
